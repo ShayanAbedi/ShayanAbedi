@@ -8,8 +8,8 @@ Hi, My name is Shayan Abedi. I am currently in my final year of Computer Science
 
 <details> <summary>Featured</summary>
 
-<li>🔭 I’m currently working on problem solving skills</li>
-<li>🌱 I’m currently learning React </li>
+<li>🔭 I’m currently working on problem solving skills.</li>
+<li>🌱 I’m currently learning React.</li>
 <li>📫 Contact me - <a href="mailto:abedi.shayan@unb.ca">abedi.shayan@unb.ca</a></li>
 
 </details> 

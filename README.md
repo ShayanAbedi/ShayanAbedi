@@ -28,8 +28,3 @@ Hi, My name is Shayan Abedi. I am currently in my final year of Computer Science
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Shayan github stats](https://github-readme-stats.vercel.app/api?username=ShayanAbedi&show_icons=true&theme=tokyonight)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ShayanAbedi/count.svg" />
-</p>

@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shayanabd/)
 <br/>
 
-Hi, My name is Shayan Abedi. I am a Computer Science graduate from the University of New Brunswick. I'm proficient in JavaScript and have hands-on experience in React, CSS, Node JS, SQL, and MongoDB. I love to learn new technologies and building new applications. In my spare time, I usually work on my personal projects and look for new things to learn. Besides programming, I enjoy reading Medium stories, watching Tech Talks on YouTube, taking photos, and travelling to exciting places.
+Hi, my name is Shayan Abedi. I am a Computer Science graduate from the University of New Brunswick. I'm proficient in JavaScript and have hands-on experience in React, CSS, Node JS, SQL, and MongoDB. I love to learn new technologies and building new applications. In my spare time, I usually work on my personal projects and look for new things to learn. Besides programming, I enjoy reading Medium stories, watching Tech Talks on YouTube, taking photos, and travelling to exciting places.
 <br/>
 <br/>
 <span>📫 Contact me: <a href="mailto:shayanabedi.dev@gmail.com">shayanabedi.dev@gmail.com</a></div>

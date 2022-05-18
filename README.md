@@ -1,4 +1,4 @@
-## Hi there, I'm [Shayan!](https://shayandev.co/) 👋
+## Hi there, I'm [Shayan!](https://shayanabedi.com) 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shayanabd/)
 <br/>

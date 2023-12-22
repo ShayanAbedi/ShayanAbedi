@@ -16,6 +16,7 @@ With a curious mind and a passion for programming, I'm excited to continue explo
   
 **Language and Tools:** 
 
+<!-- 
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/javascript/javascript-plain.svg"></code>
@@ -25,5 +26,16 @@ With a curious mind and a passion for programming, I'm excited to continue explo
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code>
 <code><img height="50" src="https://github.com/konpa/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<!-- 
 ![Shayan github stats](https://github-readme-stats.vercel.app/api?username=ShayanAbedi&show_icons=true&theme=tokyonight) -->
+
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shayanabedi&show_icons=true&theme=merko&count_private=true" />
+  </a>
+</div>
+<br/>
+<div>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shayanabedi&theme=merko&layout=compact" />
+  </a>
+</div>
